@@ -1,0 +1,10 @@
+img {
+    width: 300px;
+}
+table {
+    width: 600px;
+    background: #eee;
+}
+td {
+    margin: 10px;
+}

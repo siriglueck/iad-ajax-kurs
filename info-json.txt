@@ -1,0 +1,3 @@
+{
+    "info" : ["Blick vom Berg", "Blick Richtung Berg", "Die Uhrzeit"]
+}
